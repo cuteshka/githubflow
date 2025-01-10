@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Lidiya
-=======
 Martin
->>>>>>> feature/listMartin
+
